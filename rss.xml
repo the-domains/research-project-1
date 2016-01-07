@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Research Project 1]]></title>
+        <description><![CDATA[Research Project 1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 20:32:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CREATING APPS FOR SOCIAL SCIENCE RESEARCH]]></title>
+            <description><![CDATA[<article><h1>CREATING APPS FOR SOCIAL SCIENCE RESEARCH</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e493632d00a80a699195ae71f0342137f70f30b.jpg"></article>]]></description>
+            <link>undefinedcreating-apps-for-social-science-research/index.html</link>
+            <guid isPermaLink="false">ee183428-4f01-4ad5-aaf7-80a59f6a0590</guid>
+            <pubDate>Thu, 07 Jan 2016 20:32:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
