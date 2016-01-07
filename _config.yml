@@ -1,0 +1,28 @@
+name: Research Project 1
+favicon: null
+layout_spectrum: 0.7648699516430497
+typography_spectrum: 0.3579217647202313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3055465370416641
+  lightness: 0.26862645824439824
+  saturation: 0.5002953354269266
+  rhythmicContrast: 0.872546121943742
+purpose: []
